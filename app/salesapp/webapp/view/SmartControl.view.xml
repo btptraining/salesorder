@@ -14,7 +14,7 @@
 			<f:title>
 				<f:DynamicPageTitle>
 					<f:heading>
-						<Title text="Sales Order"/>
+						<Title text="{i18n>appTitle}"/>
 					</f:heading>
 			
 					<f:expandedContent>
